@@ -35,10 +35,12 @@ This will save the model file to your local directory.
 2. Navigate to the **AI Lab** section.
 3. Click on **Catalog** under the **MODELS** tab.
 
+
 You should see the newly imported model listed under the **Imported** section.  
 This verifies that the model is now available to use within Podman Desktop.
 
-![import](#)
+![1](https://github.com/aksaswadkar/DevConf.CZ2025/blob/main/Execution/import.gif)
+
 
 ---
 
@@ -51,7 +53,7 @@ This verifies that the model is now available to use within Podman Desktop.
 
 This links your imported model to the RAG Chatbot, so it will use the custom-trained data you copied over.
 
-![RAG chatbot Start](#)
+![2](https://github.com/aksaswadkar/DevConf.CZ2025/blob/main/Execution/Rag_chatbot_Start.gif)
 
 ---
 
@@ -62,9 +64,11 @@ Once you’ve selected the imported model in the **RAG Chatbot** recipe:
 1. Click **Start RAG Chatbot Recipe** to launch the chatbot.
 2. The chatbot is now using your trained model for AI tasks.
 
+![3](https://github.com/aksaswadkar/DevConf.CZ2025/blob/main/Execution/RAG_chatbot.gif)
+
+
 Congratulations! Your trained model is now fully integrated and powering your RAG Chatbot recipe.
 
-![RAG chatbot](#)
 
 ---
 
